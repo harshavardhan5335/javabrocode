@@ -59,6 +59,5 @@ public class array {
          * System.out.println("Modified" + num);
          * }
          */
-
     }
 }
