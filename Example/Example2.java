@@ -15,6 +15,7 @@ public class Example2 {
         if (isNameGiven) {
             System.out.println("sad your " + name + " is not nice");
         }
+        scanner.close();
 
         scanner.close();
     }
